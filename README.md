@@ -11,7 +11,7 @@
   
   <a href="https://stackoverflow.com/users/8802951/mehmed-akif-ay" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png?20190716190036" alt="mehmedakifay" height="40" width="40" /></a>
-  <a href="mehmedakifay@gmail.com">
+  <a href="mailto:mehmedakifay@gmail.com">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="mehmedakifay" height="30" width="30" />
   </a>
 </p>
